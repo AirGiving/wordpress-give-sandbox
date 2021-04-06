@@ -1,0 +1,1 @@
+jQuery(function(l){"use strict";l(".show-ywsl-box").on("click",function(o){o.preventDefault(),l(".ywsl-box").slideToggle()}),"#_=_"==window.location.hash&&(history.replaceState?history.replaceState(null,null,window.location.href.split("#")[0]):window.location.hash="")});
